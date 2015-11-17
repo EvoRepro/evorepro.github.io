@@ -24,6 +24,7 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/creative.css" type="text/css">
+    <link rel="stylesheet" href="css/parallax.css" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -104,8 +105,7 @@ In summary, the outputs of the EVOREPRO project will provide a deeper understand
 	</div>
     </section>
     
-    <section class="no-padding" id="map">
-	    <img src="img/full_map.png" class="img-responsive" alt="" style="width:100%"/>
+    <section class="no-padding" id="map" data-speed="1.5" data-type="background">
     </section>
     
     <section id="people">
@@ -349,7 +349,30 @@ In summary, the outputs of the EVOREPRO project will provide a deeper understand
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
-
+     <script>
+$(document).ready(function(){
+   // cache the window object
+   $window = $(window);
+ 
+   $('section[data-type="background"]').each(function(){
+     // declare the variable to affect the defined data-type
+     var $scroll = $(this);
+                     
+      $(window).scroll(function() {
+        // HTML5 proves useful for helping with creating JS functions!
+        // also, negative value because we're scrolling upwards                             
+        //var yPos = -($window.scrollTop() / $scroll.data('speed')); 
+	var yPos = -(($window.scrollTop() - $scroll.offset().top) / $scroll.data('speed'));
+        // background position
+        var coords = '50% '+ yPos + 'px';
+	console.log(coords)
+ 
+        // move the background
+        $scroll.css({ backgroundPosition: coords });    
+      }); // end window scroll
+   });  // end section function
+}); // close out script     
+     </script>
 </body>
 
 </html>
