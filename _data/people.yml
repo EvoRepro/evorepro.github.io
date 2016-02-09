@@ -4,7 +4,7 @@
   url: http://www.igc.gulbenkian.pt/
   email: jbecker@igc.gulbenkian.pt
   country: Portugal
-  image: img/logos/picture_not_available.png
+  image: img/people/jbecker.jpg
   id: 1
   
 - name: Jose Gutierrez-Marcos
@@ -22,7 +22,7 @@
   url: https://le.ac.uk/
   email: twe@leicester.ac.uk
   country: UK
-  image: img/logos/picture_not_available.png
+  image: img/people/dtwell.jpg
   id: 3
 
 - name: Thomas Dresselhaus
@@ -31,7 +31,7 @@
   url: http://www.uni-regensburg.de/index.html.en
   email: thomas.dresselhaus@biologie.uni-regensburg.de
   country: Germany
-  image: img/logos/picture_not_available.png
+  image: img/people/tdresselhaus.jpg
   id: 4
   
 - name: Marek Mutwil
@@ -40,7 +40,7 @@
   url: http://www.mpimp-golm.mpg.de/
   email: mutwil@mpimp-golm.mpg.de
   country: Germany
-  image: img/logos/picture_not_available.png
+  image: img/people/mmutwil.jpg
   id: 5
   
 - name: Frederic Berger
@@ -48,7 +48,7 @@
   institute: GMI f&uuml;r Molekulare Pflanzenbiologie
   url: https://www.gmi.oeaw.ac.at/
   email: frederic.berger@gmi.oeaw.ac.at
-  country: Germany
+  country: Austria
   image: img/logos/picture_not_available.png
   id: 6
 
@@ -76,7 +76,7 @@
   url: http://www.mpimp-golm.mpg.de/
   email: proost@mpimp-golm.mpg.de
   country: Germany
-  image: img/logos/picture_not_available.png
+  image: img/people/sproost.jpg
   id: 9 
   
 - name: Dieter Hackenberg
@@ -84,8 +84,44 @@
   institute: University of Leicester
   url: https://le.ac.uk/
   country: UK
-  image: img/logos/picture_not_available.png
+  image: img/people/dhackenberg.jpg
   id: 10
+  
+- name: Ann-Cathrin Lindner
+  role: Postdoc
+  institute: Instituto Gulbenkian de Ci&ecirc;ncia
+  url: http://www.igc.gulbenkian.pt/
+  email: alindner@igc.gulbenkian.pt
+  country: Portugal
+  image: img/people/alindner.jpg
+  id: 11
+  
+- name: Tomokazu Kawashima 
+  role: Postdoc
+  institute: GMI f&uuml;r Molekulare Pflanzenbiologie
+  url: https://www.gmi.oeaw.ac.at/
+  email: tomokazu.kawashima@gmi.oeaw.ac.at
+  country: Austria
+  image: img/people/tkawashima.jpg
+  id: 12
+  
+- name: Michael Borg  
+  role: Postdoc
+  institute: GMI f&uuml;r Molekulare Pflanzenbiologie
+  url: https://www.gmi.oeaw.ac.at/
+  email: michael.borg@gmi.oeaw.ac.at
+  country: Austria
+  image: img/people/mborg.jpg
+  id: 13
+  
+- name: Elin Axelsson  
+  role: Bioinformatician
+  institute: GMI f&uuml;r Molekulare Pflanzenbiologie
+  url: https://www.gmi.oeaw.ac.at/
+  email: elin.axelsson@gmi.oeaw.ac.at
+  country: Austria
+  image: img/people/ealexsson.jpg
+  id: 14
   
 - name: Frank Vogler  
   role: PhD student
@@ -94,7 +130,7 @@
   email: frank.vogler@ur.de
   country: Germany
   image: img/logos/picture_not_available.png
-  id: 11
+  id: 15
   
 - name: Mingmin Zhao
   role: PhD student
@@ -103,4 +139,4 @@
   email: mz127@le.ac.uk
   country: UK
   image: img/logos/picture_not_available.png
-  id: 12
+  id: 16
