@@ -9,8 +9,9 @@
         </div>
         <div class="container">
 			<ul id="pub_list">
-				{% for p in site.data.press %}
-				<li>{{ p.authors }}, <strong>{{ p.title }}</strong>. {{ p.journal }} (<em>{{ p.year }}</em>). {% if p.pubmed %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ p.pubmed }}" class="badge pubmed_link">pubmed</a>{% endif %}  </li>
+				{%	assign press = site.data.press | sort:"date" %}
+				{% for p in press reversed %}
+				<li><strong>{{ p.title }}</strong>. <a href="{{ p.url }}">{{ p.source }}, {{ p.date | date_to_string }}</a></li>
 			    {% endfor %}
 			</ul>	
         </div>

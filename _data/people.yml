@@ -79,6 +79,14 @@
   image: img/logos/picture_not_available.png
   id: 9 
   
+- name: Dieter Hackenberg
+  role: Postdoc
+  institute: University of Leicester
+  url: https://le.ac.uk/
+  country: UK
+  image: img/logos/picture_not_available.png
+  id: 10
+  
 - name: Frank Vogler  
   role: PhD student
   institute: Universit&auml;t Regensburg
@@ -86,4 +94,13 @@
   email: frank.vogler@ur.de
   country: Germany
   image: img/logos/picture_not_available.png
-  id: 10
+  id: 11
+  
+- name: Mingmin Zhao
+  role: PhD student
+  institute: University of Leicester
+  url: https://le.ac.uk/
+  email: mz127@le.ac.uk
+  country: UK
+  image: img/logos/picture_not_available.png
+  id: 12

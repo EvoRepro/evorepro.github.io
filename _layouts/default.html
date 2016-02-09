@@ -72,7 +72,10 @@
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
-		<li>
+                    <li>
+                        <a class="page-scroll" href="#press">Press</a>
+                    </li>
+					<li>
                         <a class="page-scroll" href="#funding">Funding</a>
                     </li>
                 </ul>
@@ -111,9 +114,9 @@ $(document).ready(function(){
         // HTML5 proves useful for helping with creating JS functions!
         // also, negative value because we're scrolling upwards                             
         //var yPos = -($window.scrollTop() / $scroll.data('speed')); 
-	var yPos = -(($window.scrollTop() - $scroll.offset().top) / $scroll.data('speed'));
+		var yPos = -(($window.scrollTop() - $scroll.offset().top) / $scroll.data('speed'));
         // background position
-        // var coords = '50% '+ yPos + 'px';
+        var coords = '50% '+ yPos + 'px';
 		// console.log(coords)
  
         // move the background
