@@ -1,0 +1,14 @@
+ul#pub_list
+{
+    list-style-type: none;
+	padding: 0px;
+}
+
+ul#pub_list > li {
+	margin-bottom: 7px;
+}
+
+.people-box {
+	height: 110px;
+	
+}

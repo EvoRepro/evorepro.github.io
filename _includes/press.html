@@ -1,0 +1,17 @@
+    <section id="press">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Press</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+			<ul id="pub_list">
+				{% for p in site.data.press %}
+				<li>{{ p.authors }}, <strong>{{ p.title }}</strong>. {{ p.journal }} (<em>{{ p.year }}</em>). {% if p.pubmed %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ p.pubmed }}" class="badge pubmed_link">pubmed</a>{% endif %}  </li>
+			    {% endfor %}
+			</ul>	
+        </div>
+    </section>

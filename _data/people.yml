@@ -4,7 +4,8 @@
   url: http://www.igc.gulbenkian.pt/
   email: jbecker@igc.gulbenkian.pt
   country: Portugal
-  image: /img/logos/picture_not_available.png
+  image: img/logos/picture_not_available.png
+  id: 1
   
 - name: Jose Gutierrez-Marcos
   role: PI
@@ -12,7 +13,8 @@
   url: https://www2.warwick.ac.uk/
   email: J.F.Gutierrez-Marcos@warwick.ac.uk
   country: UK
-  image: /img/logos/picture_not_available.png
+  image: img/logos/picture_not_available.png
+  id: 2
 
 - name: David Twell
   role: PI
@@ -20,7 +22,8 @@
   url: https://le.ac.uk/
   email: twe@leicester.ac.uk
   country: UK
-  image: /img/logos/picture_not_available.png
+  image: img/logos/picture_not_available.png
+  id: 3
 
 - name: Thomas Dresselhaus
   role: PI
@@ -28,7 +31,8 @@
   url: http://www.uni-regensburg.de/index.html.en
   email: thomas.dresselhaus@biologie.uni-regensburg.de
   country: Germany
-  image: /img/logos/picture_not_available.png
+  image: img/logos/picture_not_available.png
+  id: 4
   
 - name: Marek Mutwil
   role: PI
@@ -36,7 +40,8 @@
   url: http://www.mpimp-golm.mpg.de/
   email: mutwil@mpimp-golm.mpg.de
   country: Germany
-  image: /img/logos/picture_not_available.png
+  image: img/logos/picture_not_available.png
+  id: 5
   
 - name: Frederic Berger
   role: PI
@@ -44,7 +49,8 @@
   url: https://www.gmi.oeaw.ac.at/
   email: frederic.berger@gmi.oeaw.ac.at
   country: Germany
-  image: /img/logos/picture_not_available.png
+  image: img/logos/picture_not_available.png
+  id: 6
 
 - name: Mark Johnson
   role: PI
@@ -52,4 +58,32 @@
   url: http://www.brown.edu/
   email: Mark_Johnson_1@brown.edu
   country: USA
-  image: /img/logos/picture_not_available.png
+  image: img/logos/picture_not_available.png
+  id: 7
+  
+- name: Stefanie Sprunck 
+  role: PI
+  institute: Universit&auml;t Regensburg
+  url:  http://www.uni-regensburg.de/index.html.en
+  email: stefanie.sprunck@biologie.uni-regensburg.de
+  country: Germany
+  image: img/logos/picture_not_available.png
+  id: 8
+  
+- name: Sebastian Proost  
+  role: Postdoc
+  institute: MPI f&uuml;r Molekulare Pflanzenphysiologie
+  url: http://www.mpimp-golm.mpg.de/
+  email: proost@mpimp-golm.mpg.de
+  country: Germany
+  image: img/logos/picture_not_available.png
+  id: 9 
+  
+- name: Frank Vogler  
+  role: PhD student
+  institute: Universit&auml;t Regensburg
+  url:  http://www.uni-regensburg.de/index.html.en
+  email: frank.vogler@ur.de
+  country: Germany
+  image: img/logos/picture_not_available.png
+  id: 10
