@@ -67,7 +67,7 @@
   url:  http://www.uni-regensburg.de/index.html.en
   email: stefanie.sprunck@biologie.uni-regensburg.de
   country: Germany
-  image: img/logos/picture_not_available.png
+  image: img/people/ssprunck.jpg
   id: 8
   
 - name: Sebastian Proost  
@@ -114,6 +114,15 @@
   image: img/people/mborg.jpg
   id: 13
   
+- name: Frank Vogler  
+  role: Postdoc
+  institute: Universit&auml;t Regensburg
+  url:  http://www.uni-regensburg.de/index.html.en
+  email: frank.vogler@ur.de
+  country: Germany
+  image: img/people/fvogler.jpg
+  id: 14  
+
 - name: Elin Axelsson  
   role: Bioinformatician
   institute: GMI f&uuml;r Molekulare Pflanzenbiologie
@@ -121,15 +130,6 @@
   email: elin.axelsson@gmi.oeaw.ac.at
   country: Austria
   image: img/people/ealexsson.jpg
-  id: 14
-  
-- name: Frank Vogler  
-  role: PhD student
-  institute: Universit&auml;t Regensburg
-  url:  http://www.uni-regensburg.de/index.html.en
-  email: frank.vogler@ur.de
-  country: Germany
-  image: img/logos/picture_not_available.png
   id: 15
   
 - name: Mingmin Zhao
