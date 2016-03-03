@@ -13,7 +13,7 @@
   url: https://www2.warwick.ac.uk/
   email: J.F.Gutierrez-Marcos@warwick.ac.uk
   country: UK
-  image: img/logos/picture_not_available.png
+  image: img/people/jgutierrez.jpg
   id: 2
 
 - name: David Twell
@@ -58,7 +58,7 @@
   url: http://www.brown.edu/
   email: Mark_Johnson_1@brown.edu
   country: USA
-  image: img/logos/picture_not_available.png
+  image: img/people/mjohnson.jpg
   id: 7
   
 - name: Stefanie Sprunck 
@@ -138,5 +138,5 @@
   url: https://le.ac.uk/
   email: mz127@le.ac.uk
   country: UK
-  image: img/logos/picture_not_available.png
+  image: img/people/mzhao.jpg
   id: 16
