@@ -114,13 +114,13 @@
   image: img/people/mborg.jpg
   id: 13
   
-- name: Frank Vogler  
+- name: María Flores-Torero  
   role: Postdoc
   institute: Universit&auml;t Regensburg
   url:  http://www.uni-regensburg.de/index.html.en
-  email: frank.vogler@ur.de
+  email: maria.flores@biologie.uni-regensburg.de
   country: Germany
-  image: img/people/fvogler.jpg
+  image: img/people/mflores.jpg
   id: 14  
 
 - name: Elin Axelsson  
