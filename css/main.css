@@ -8,7 +8,7 @@ ul#pub_list > li {
 	margin-bottom: 7px;
 }
 
-li#pub_item_highlight {
+li.pub_item_highlight {
 	background-color:#B0EC7E;
 }
 
