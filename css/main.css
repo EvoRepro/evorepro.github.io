@@ -8,6 +8,10 @@ ul#pub_list > li {
 	margin-bottom: 7px;
 }
 
+li#pub_item_highlight {
+	background-color:#B0EC7E;
+}
+
 .people-box {
 	height: 110px;
 	
