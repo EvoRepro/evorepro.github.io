@@ -5,7 +5,7 @@ ul#pub_list
 }
 
 ul#pub_list > li {
-	margin-bottom: 7px;
+	padding: 5px;
 }
 
 li.pub_item_highlight {
