@@ -1,0 +1,20 @@
+    <section id="gallery" class="bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Gallery</h2>
+                    <hr class="primary">
+					{% for picture in site.data.pictures %}
+					<div class="col-xs-6 col-md-3">
+						<a href="{{ picture.path }}" class="thumbnail" data-lightbox="gallery" data-title="{{ picture.title }}">
+							<img src="{{ picture.thumb_path }}" alt="{{ picture.description }}">
+							<div class="caption">
+							<strong>{{ picture.title }}</strong>
+							</div>
+						</a>
+					</div>
+					{% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
