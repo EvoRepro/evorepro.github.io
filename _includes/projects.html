@@ -3,7 +3,11 @@
 		<div class="row no-gutter">
 		{% for p in site.data.projects %}
 			<div class="col-lg-4 col-sm-6">
-				<a href="#" class="portfolio-box">
+				{% if p.url == '#' %}
+				<a href="#projects" class="portfolio-box">
+				{% else %}
+				<a href="{{ p.url }}#content" class="portfolio-box">
+				{% endif %}
 					<img src="{{ p.img }}" class="img-responsive" alt="">
 					<div class="portfolio-box-caption">
 						<div class="portfolio-box-caption-content">
@@ -14,7 +18,9 @@
 								{{ p.name }}
 							</div>
 							<div class="project-category text-faded">
-							More information soon...
+							{% if p.url == '#' %}
+							MORE INFORMATION COMING SOON
+							{% endif%}
 							</div>
 						</div>
 

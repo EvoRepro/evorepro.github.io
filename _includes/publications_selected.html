@@ -1,0 +1,24 @@
+    <section id="publications">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Publications</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+			<ul id="pub_list">
+				{% for p in site.data.publications %}
+				{% if include.selected contains p.code %}
+				    {% if p.collaboration == 0 %}
+					<li class='pub_item'>
+					{% else %}
+					<li class='pub_item_highlight'>
+					{% endif %}
+					{{ p.authors }}, <strong>{{ p.title }}</strong>. {{ p.journal }} (<em>{{ p.year }}</em>). {% if p.pubmed %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ p.pubmed }}" class="badge pubmed_link">pubmed</a>{% endif %}  {% if p.url %}<a href="{{ p.url }}" class="badge pubmed_link">url</a>{% endif %}</li>
+				{% endif %}
+			    {% endfor %}
+			</ul>	
+        </div>
+    </section>

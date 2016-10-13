@@ -6,6 +6,7 @@
   url: https://elifesciences.org/content/5/e13546
   status: "In press"
   collaboration: 1
+  code: wibowo2016
 
 - title: "Plant Evolution: What Does It Take To Be an Egg?"
   authors: "Leonor C. Boavida, Jörg D. Becker"
@@ -15,6 +16,7 @@
   url: http://www.cell.com/current-biology/fulltext/S0960-9822(16)30539-5
   status: "In press"
   collaboration: 0
+  code: Leonor2016
   
 - title: "Quick Guide: Marchantia"
   authors: "Frederic Berger, John L. Bowman, Takayuki Kohchi"
@@ -24,6 +26,7 @@
   url: http://www.cell.com/current-biology/fulltext/S0960-9822(15)01495-5
   status: "In press"
   collaboration: 0
+  code: berger2016
 
 - title: "Tools of the trade: studying molecular networks in plants"
   authors: "Sebastian Proost, Marek Mutwil"
@@ -33,6 +36,7 @@
   url: http://www.sciencedirect.com/science/article/pii/S1369526616300279
   status: "In press"
   collaboration: 0
+  code: proost2016
 
 - title: "FamNet: A framework to identify multiplied modules driving pathway diversification in plants"
   authors: "Colin Ruprecht, Amelie Mendrinna, Takayuki Tohge, Arun Sampathkumar, Sebastian Klie, Alisdair R. Fernie, Zoran Nikoloski, Staffan Persson, Marek Mutwil"
@@ -42,6 +46,7 @@
   url: http://www.plantphysiol.org/content/early/2016/01/11/pp.15.01281.abstract
   status: "In press"
   collaboration: 0
+  code: ruprecht2016
   
 - title: "A Transcriptome Atlas of Physcomitrella patens Provides Insights into the Evolution and Development of Land Plants"
   authors: "Carlos Ortiz-Ramírez, Marcela Hernandez-Coronado, Anna Thamm, Bruno Catarino, Mingyi Wang, Liam Dolan, José A. Feijó, Jörg D. Becker"
@@ -51,3 +56,4 @@
   url: http://www.cell.com/molecular-plant/abstract/S1674-2052%2815%2900455-4
   status: "In press"
   collaboration: 0
+  code: ortiz2016
