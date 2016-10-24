@@ -20,3 +20,7 @@ li.pub_item_highlight {
 .funding-logo{
 	margin-bottom: 15px;
 }
+
+.funding-logo>a>img{
+	margin: auto;
+}
