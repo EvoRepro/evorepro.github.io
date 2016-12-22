@@ -1,3 +1,13 @@
+- title: "PlaNet: Comparative Co-Expression Network Analyses for Plants"
+  authors: "Sebastian Proost, Marek Mutwil"
+  journal: "Methods in Molecular Biology, Plant Genomics Databases (Book Chapter)"
+  year: 2016
+  pubmed: 
+  url: http://link.springer.com/protocol/10.1007/978-1-4939-6658-5_12
+  status: "In press"
+  collaboration: 0
+  code: proost2016b
+
 - title: "Hyperosmotic stress memory in Arabidopsis is mediated by distinct epigenetically labile sites in the genome and is restricted in the male germline by DNA glycosylase activity"
   authors: "Anjar Wibowo, Claude Becker, Gianpiero Marconi, Julius Durr, Jonathan Price, Jorg Hagmann, Ranjith Papareddy, Hadi Putra, Jorge Kageyama, Jorg Becker, Detlef Weigel, Jose Gutierrez-Marcos"
   journal: "eLife"
