@@ -1,3 +1,13 @@
+- title: "Beyond genomics: studying evolution with gene networks"
+  authors: "Colin Ruprecht, Neha Vaid, Sebastian Proost, Staffan Persson, Marek Mutwil"
+  journal: "Trends in Plant Science"
+  year: 2016/2017
+  pubmed: 
+  url:
+  status: "Accepted"
+  collaboration: 0
+  code: ruprecht2016b
+
 - title: "PlaNet: Comparative Co-Expression Network Analyses for Plants"
   authors: "Sebastian Proost, Marek Mutwil"
   journal: "Methods in Molecular Biology, Plant Genomics Databases (Book Chapter)"
