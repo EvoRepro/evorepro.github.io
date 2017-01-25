@@ -1,9 +1,20 @@
+- title: "Phylogenomic analysis of gene co-expression networks reveals evolution of functional modules"
+  authors: "Colin Ruprecht, Sebastian Proost, Marcela Hernandez-Coronado, Carlos Ortiz-Ramirez, Daniel Lang, Stefan A. Rensing, Jörg D. Becker, Klaas Vandepoele, Marek Mutwil"
+  journal: "The Plant Journal"
+  year: 2017
+  pubmed: 
+  url:
+  status: "Accepted"
+  collaboration: 1
+  code: ruprecht2017
+
+
 - title: "Beyond genomics: studying evolution with gene networks"
   authors: "Colin Ruprecht, Neha Vaid, Sebastian Proost, Staffan Persson, Marek Mutwil"
   journal: "Trends in Plant Science"
-  year: 2016/2017
+  year: 2017
   pubmed: 
-  url:
+  url: http://www.cell.com/trends/plant-science/abstract/S1360-1385(16)30227-8
   status: "Accepted"
   collaboration: 0
   code: ruprecht2016b
@@ -11,8 +22,8 @@
 - title: "PlaNet: Comparative Co-Expression Network Analyses for Plants"
   authors: "Sebastian Proost, Marek Mutwil"
   journal: "Methods in Molecular Biology, Plant Genomics Databases (Book Chapter)"
-  year: 2016
-  pubmed: 
+  year: 2017
+  pubmed: 27987173
   url: http://link.springer.com/protocol/10.1007/978-1-4939-6658-5_12
   status: "In press"
   collaboration: 0
