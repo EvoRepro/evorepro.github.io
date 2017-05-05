@@ -13,7 +13,11 @@
   journal: "The Plant Journal"
   year: 2017
   pubmed: 28161902
+<<<<<<< HEAD
   url:
+=======
+  url: http://onlinelibrary.wiley.com/doi/10.1111/tpj.13502/abstract
+>>>>>>> origin/master
   status: "Accepted"
   collaboration: 1
   code: ruprecht2017
