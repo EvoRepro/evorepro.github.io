@@ -1,8 +1,18 @@
+- title: "Expression atlas and comparative co-expression network analyses reveal important genes involved in the formation of lignified cell wall in Brachypodium distachyon"
+  authors: "Richard Sibout, Sebastian Proost, Bjoern Hansen, Neha Vaid, Federico Giorgi, Severine Ho-Yue-Kuang, Frederic Legée, Laurent Cezart, Oumaya Bouchabké-Coussa, Camille Soulhat, Nicholas Provart, Asher Pasha, Philippe Le Bris, Elisabeth Jamet, David Roujol, Herman Höfte, Catherine Lapierre, Staffan Persson, Marek Mutwil"
+  journal: "New Phytologist"
+  year: 2017
+  pubmed: 
+  url:
+  status: "Accepted"
+  collaboration: 0
+  code: sibout2017
+
 - title: "Phylogenomic analysis of gene co-expression networks reveals evolution of functional modules"
   authors: "Colin Ruprecht, Sebastian Proost, Marcela Hernandez-Coronado, Carlos Ortiz-Ramirez, Daniel Lang, Stefan A. Rensing, Jörg D. Becker, Klaas Vandepoele, Marek Mutwil"
   journal: "The Plant Journal"
   year: 2017
-  pubmed: 
+  pubmed: 28161902
   url:
   status: "Accepted"
   collaboration: 1
@@ -13,7 +23,7 @@
   authors: "Colin Ruprecht, Neha Vaid, Sebastian Proost, Staffan Persson, Marek Mutwil"
   journal: "Trends in Plant Science"
   year: 2017
-  pubmed: 
+  pubmed: 28126286
   url: http://www.cell.com/trends/plant-science/abstract/S1360-1385(16)30227-8
   status: "Accepted"
   collaboration: 0
