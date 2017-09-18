@@ -7,3 +7,13 @@
   description: ""
   path: img/pictures/meeting_2016.jpg
   thumb_path: img/pictures/meeting_2016_thumb.jpg
+  
+- title: "EvoRepro Selfie 2017"
+  description: ""
+  path: img/pictures/meeting_2017_01.jpg
+  thumb_path: img/pictures/meeting_2017_01_thumb.jpg
+  
+- title: "EvoRepro Meeting 2017"
+  description: ""
+  path: img/pictures/meeting_2017_02.jpg
+  thumb_path: img/pictures/meeting_2017_02_thumb.jpg
