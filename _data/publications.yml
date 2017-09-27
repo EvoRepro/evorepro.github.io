@@ -1,3 +1,14 @@
+- title: "LSTrAP: Efficiently combining RNA sequencing data into co-expression networks"
+  authors: "Sebastian Proost, Agnieszka Krawczyk, Marek Mutwil"
+  journal: "BMC Bioinformatics (Accepted)"
+  year: 2017
+  pubmed: 
+  url: 
+  status: "Accepted"
+  collaboration: 0
+  github: https://github.molgen.mpg.de/proost/LSTrAP
+  code: proost2017
+
 - title: "Expression atlas and comparative co-expression network analyses reveal important genes involved in the formation of lignified cell wall in Brachypodium distachyon"
   authors: "Richard Sibout, Sebastian Proost, Bjoern Hansen, Neha Vaid, Federico Giorgi, Severine Ho-Yue-Kuang, Frederic Legée, Laurent Cezart, Oumaya Bouchabké-Coussa, Camille Soulhat, Nicholas Provart, Asher Pasha, Philippe Le Bris, Elisabeth Jamet, David Roujol, Herman Höfte, Catherine Lapierre, Staffan Persson, Marek Mutwil"
   journal: "New Phytologist"

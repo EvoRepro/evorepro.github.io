@@ -16,7 +16,7 @@
 					{% else %}
 					<li class='pub_item_highlight'>
 					{% endif %}
-					{{ p.authors }}, <strong>{{ p.title }}</strong>. {{ p.journal }} (<em>{{ p.year }}</em>). {% if p.pubmed %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ p.pubmed }}" class="badge pubmed_link">pubmed</a>{% endif %}  {% if p.url %}<a href="{{ p.url }}" class="badge pubmed_link">url</a>{% endif %}</li>
+					{{ p.authors }}, <strong>{{ p.title }}</strong>. {{ p.journal }} (<em>{{ p.year }}</em>). {% if p.pubmed %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ p.pubmed }}" class="badge pubmed_link">pubmed</a>{% endif %}  {% if p.url %}<a href="{{ p.url }}" class="badge pubmed_link">url</a>{% endif %} {% if p.github %}<a href="{{ p.github }}" class="badge"><i class="fa fa-github-alt" aria-hidden="true"></i> code</a>{% endif %}</li>
 				{% endif %}
 			    {% endfor %}
 			</ul>	
