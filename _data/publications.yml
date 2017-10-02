@@ -1,3 +1,33 @@
+- title: "A conserved cis-regulatory module determines germline fate through activation of the transcription factor DUO1"
+  authors: "Benjamin Peters, Jonathan Casey, Jack Aidley, Stuart Zohrab, Michael Borg, David Twell*, Lynette Brownfield*"
+  journal: "Plant Physiology"
+  year: 2017
+  pubmed: 27624837
+  url: http://www.plantphysiol.org/content/173/1/280
+  status: "Accepted"
+  collaboration: 0
+  code: twell2017c
+
+- title: "Analysis of Fluorescent Reporter Activity in the Male Germline During Pollen Development by Confocal Microscopy"
+  authors: "David Twell, Lynette Brownfield"
+  journal: "Schmidt A. (eds) Plant Germline Development. Methods in Molecular Biology"
+  year: 2017
+  pubmed: 28936650
+  url: https://link.springer.com/protocol/10.1007/978-1-4939-7286-9_6
+  status: "Accepted"
+  collaboration: 0
+  code: twell2017b
+  
+- title: "Identification of Cis-Regulatory Modules that Function in the Male Germline of Flowering Plants"
+  authors: "Benjamin Peters, Jack Aidley, Murray Cadzow, David Twell, Lynette Brownfield"
+  journal: "Schmidt A. (eds) Plant Germline Development. Methods in Molecular Biology"
+  year: 2017
+  pubmed: 28936666
+  url: https://link.springer.com/protocol/10.1007%2F978-1-4939-7286-9_22
+  status: "Accepted"
+  collaboration: 0
+  code: twell2017a
+  
 - title: "LSTrAP: Efficiently combining RNA sequencing data into co-expression networks"
   authors: "Sebastian Proost, Agnieszka Krawczyk, Marek Mutwil"
   journal: "BMC Bioinformatics (Accepted)"
