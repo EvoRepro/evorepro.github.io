@@ -1,3 +1,13 @@
+- title: "Reproduction: Plant Parentage à Trois"
+  authors: "Thomas Dresselhaus, Mark A. Johnson"
+  journal: "Current Biology"
+  year: 2018
+  pubmed: 29316418
+  url: http://www.cell.com/current-biology/fulltext/S0960-9822(17)31523-3
+  status: "Accepted"
+  collaboration: 1
+  code: deresselhaus2018
+  
 - title: "A conserved cis-regulatory module determines germline fate through activation of the transcription factor DUO1"
   authors: "Benjamin Peters, Jonathan Casey, Jack Aidley, Stuart Zohrab, Michael Borg, David Twell*, Lynette Brownfield*"
   journal: "Plant Physiology"
