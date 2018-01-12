@@ -42,8 +42,8 @@
   authors: "Sebastian Proost, Agnieszka Krawczyk, Marek Mutwil"
   journal: "BMC Bioinformatics (Accepted)"
   year: 2017
-  pubmed: 
-  url: 
+  pubmed: 29017446
+  url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1861-z
   status: "Accepted"
   collaboration: 0
   github: https://github.molgen.mpg.de/proost/LSTrAP
