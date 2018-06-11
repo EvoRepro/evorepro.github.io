@@ -1,7 +1,7 @@
 - title: Work package 1
   name: Sample collection and transcriptome analysis 
   img: img/projects/project_01.jpg
-  url: "#"
+  url: "wp1.html"
   
 - title: Work package 2
   name: Co-function co-expression network analysis 
