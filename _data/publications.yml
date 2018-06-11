@@ -149,3 +149,13 @@
   status: "In press"
   collaboration: 0
   code: ortiz2016
+
+  - title: "Isolation of Arabidopsis Pollen, Sperm Cells, and Vegetative Nuclei by Fluorescence-Activated Cell Sorting (FACS)"
+  authors: "Mario R. Santos, Claudia Bispo, Jörg D. Becker"
+  journal: "Methods in Molecular Biology"
+  year: 2017
+  pubmed: 28936660
+  url: https://link.springer.com/protocol/10.1007%2F978-1-4939-7286-9_16
+  status: "Accepted"
+  collaboration: 0
+  code: santos2017
