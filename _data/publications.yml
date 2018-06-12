@@ -109,6 +109,16 @@
   collaboration: 0
   code: santos2017
 
+- title: "Manual Isolation of Living Cells from the Arabidopsis thaliana Female Gametophyte by Micromanipulation"
+  authors: "Maria Englhart, Lucija Šoljić, Stefanie Sprunck"
+  journal: "Methods in Molecular Biology"
+  year: 2017
+  pubmed: 28936662
+  url: https://link.springer.com/protocol/10.1007%2F978-1-4939-7286-9_18
+  status: "Accepted"
+  collaboration: 0
+  code: englhart2017
+
 - title: "PlaNet: Comparative Co-Expression Network Analyses for Plants"
   authors: "Sebastian Proost, Marek Mutwil"
   journal: "Methods in Molecular Biology, Plant Genomics Databases (Book Chapter)"
