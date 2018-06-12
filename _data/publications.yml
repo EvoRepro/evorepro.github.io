@@ -1,3 +1,23 @@
+- title: "CoNekT: an open-source framework for comparative genomic and transcriptomic network analyses"
+  authors: "Sebastian Proost, Marek Mutwil"
+  journal: "Nucleic Acid Research"
+  year: 2018
+  pubmed: 29718322
+  url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky336/4990637
+  status: "Accepted"
+  collaboration: 0
+  code: proost2018
+
+- title: "PhytoNet: comparative co-expression network analyses across phytoplankton and land plants"
+  authors: "Camilla Ferrari, Sebastian Proost, Colin Ruprecht, Marek Mutwil"
+  journal: "Nucleic Acid Research"
+  year: 2018
+  pubmed: 29718316
+  url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky298/4990020
+  status: "Accepted"
+  collaboration: 0
+  code: ferrari2018
+
 - title: "Reproduction: Plant Parentage à Trois"
   authors: "Thomas Dresselhaus, Mark A. Johnson"
   journal: "Current Biology"
